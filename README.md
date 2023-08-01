@@ -1,4 +1,4 @@
-# VialAccidentPredictor
+# VialAccidentPredictor🚗🚦
  Regresor logístico que predice, dado las características de un siniestro vial, si hubo heridos o fallecidos 
 
 Este proyecto fue el resultado del Trabajo Práctico final de la materia Introducción al Aprendizaje Automático de la Universidad Nacional de San Martín. La consigna fue la creación de un modelo de clasificación o regresión usando datos reales. 
