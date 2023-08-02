@@ -7,3 +7,4 @@ Utilizamos el dataset  [Intervenciones de Seguridad vial](https://data.buenosair
 
 Este modelo tiene la capacidad de predecir si un siniestro vial resultó en heridos o fallecidos. Esta predicción se puede utilizar para tomar medidas preventivas y mejorar la respuesta ante accidentes de tráfico. Por ejemplo, en función de ciertos días o condiciones específicas, se pueden preparar y desplegar un número adecuado de ambulancias, anticipando un aumento en el número de heridos. Del mismo modo, se pueden instalar postas de salud cerca de áreas con mayor incidencia de accidentes, garantizando una atención médica oportuna para aquellos que lo necesiten.
 
+Modelo creado por Cristian Vidal Sastre, Rocío Rivera y Catalina Tognola
